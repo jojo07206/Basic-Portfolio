@@ -3,15 +3,6 @@ body {
     background-image: url("http://www.saywhatnowproductions.com/wp-content/uploads/2014/09/webplunder-background-image-technology-online-website-solutions1.jpg");
 }
 
-.navbar-nav {
- text-align: right; 
-}
-
-.navbar-brand {
-    background-color: #4aaaa5;
-    color: #ffffff;
-}
-
 footer {
     position: fixed;
     background-color: #666666;
@@ -79,16 +70,26 @@ ul {
 
 .links {
     float: right;
+    padding-top: 20px;
+    padding-right: 300px;
 }
 
 li {
     float: left;
+    color: #777777;
+    margin: 10px;
 }
 
 .heading {
     float: left;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 30px;
+    font-size: 2em;
+    margin-left: 290px;
 }
 
 .clearfix {
     overflow: auto;
+    background-color: white;
 }
